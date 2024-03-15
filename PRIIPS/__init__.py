@@ -1,0 +1,6 @@
+from PRIIPS.scenario_performance import ScenarioPerformance
+from PRIIPS.scenario_performance_4 import ScenarioPerformance4
+from PRIIPS.scenario_performance_1 import ScenarioPerformance1
+from PRIIPS.scenario_performance_2 import ScenarioPerformance2
+from PRIIPS.scenario_performance_3 import ScenarioPerformance3
+from PRIIPS.scenario_performance_builder import *
